@@ -45,7 +45,7 @@ Trained weights are not committed to this repo (see [Model Weights](#-model-weig
 |---|---|---|---|
 | Faster R-CNN | _TBD_ | _TBD_ | _TBD_ |
 | YOLOv8 | _TBD_ | _TBD_ | _TBD_ |
-| YOLOv11 | _TBD_ | _TBD_ | _TBD_ |
+| YOLOv11 | 0.92 | 0.59 | _TBD_ |
 
 > Fill in this table with your actual evaluation numbers once training/evaluation is complete.
 
