@@ -809,54 +809,7 @@ best.onnx
 
 ---
 
-# 👥 Engineering Team
 
-## Team Members & Responsibilities
-
-### May Sharaf
-
-**Lead Object Detection Engineering**
-
-* YOLO architecture comparisons.
-* YOLO11s vs. YOLOv8n vs. RetinaNet.
-* Quantitative benchmarking.
-* Speed profiling.
-* Performance analysis.
-
-### Mariam M.
-
-**Dataset Pipeline Engineering**
-
-* Dataset pipeline.
-* Label verification.
-* Preprocessing notebooks.
-* Version control.
-
-### Team Member 3
-
-**RetinaNet Model Engineering**
-
-* RetinaNet implementation.
-* Training pipeline.
-* FPN baseline evaluation.
-
-### Team Member 4
-
-**Streamlit Application Engineering**
-
-* UI/UX architecture.
-* Streamlit dashboard.
-* Real-time webcam stream integration.
-
-### Team Member 5
-
-**Quality Assurance & Documentation**
-
-* Compliance logic testing.
-* Verification.
-* Technical documentation.
-
----
 
 # 📄 License & Acknowledgments
 
