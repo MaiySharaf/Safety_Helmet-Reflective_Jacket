@@ -44,8 +44,8 @@ Trained weights are not committed to this repo (see [Model Weights](#-model-weig
 | Model | mAP@0.5 | mAP@0.5:0.95 | Inference speed (FPS) |
 |---|---|---|---|
 | Faster R-CNN | _TBD_ | _TBD_ | _TBD_ |
-| YOLOv8 | 0.9_ | _0.57_ |13.2_ |
-| YOLOv11 | 0.92 | 0.59 | 6_ |
+| YOLOv8 | _0.9_ | _0.57_ |_13.2_ |
+| YOLOv11 | _0.92_ | _0.59_ | _6_ |
 
 > Fill in this table with your actual evaluation numbers once training/evaluation is complete.
 
